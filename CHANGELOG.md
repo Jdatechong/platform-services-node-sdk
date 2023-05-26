@@ -1,3 +1,31 @@
+## [0.34.2](https://github.com/IBM/platform-services-node-sdk/compare/v0.34.1...v0.34.2) (2023-04-28)
+
+
+### Bug Fixes
+
+* **Global Search:** remove deprecated method getSupportedTypes ([#206](https://github.com/IBM/platform-services-node-sdk/issues/206)) ([4be6c67](https://github.com/IBM/platform-services-node-sdk/commit/4be6c673092a35490c3c80341bc88b847e7c646c))
+
+## [0.34.1](https://github.com/IBM/platform-services-node-sdk/compare/v0.34.0...v0.34.1) (2023-04-27)
+
+
+### Bug Fixes
+
+* **Enterprise management:** re-gen service after traits schema change ([#207](https://github.com/IBM/platform-services-node-sdk/issues/207)) ([7f2fcf8](https://github.com/IBM/platform-services-node-sdk/commit/7f2fcf8d3d2504d05dab49a2ba14d763116691eb))
+
+# [0.34.0](https://github.com/IBM/platform-services-node-sdk/compare/v0.33.1...v0.34.0) (2023-04-21)
+
+
+### Features
+
+* **Enterprise Management:** re-gen service after recent API changes ([#204](https://github.com/IBM/platform-services-node-sdk/issues/204)) ([81e29f3](https://github.com/IBM/platform-services-node-sdk/commit/81e29f34112c167e84f43c21ce09b27c6da93b59))
+
+## [0.33.1](https://github.com/IBM/platform-services-node-sdk/compare/v0.33.0...v0.33.1) (2023-04-05)
+
+
+### Bug Fixes
+
+* **Usage Reports:** regen usage reports with latest API def ([#203](https://github.com/IBM/platform-services-node-sdk/issues/203)) ([8c04367](https://github.com/IBM/platform-services-node-sdk/commit/8c0436755f43dd5cc256f79e0353bc6990487958))
+
 # [0.33.0](https://github.com/IBM/platform-services-node-sdk/compare/v0.32.0...v0.33.0) (2023-03-29)
 
 
